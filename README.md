@@ -4,11 +4,13 @@ Test battery of eye movements (eye tracking) developed to assess visual function
 This test battery was developed by Ward Nieboer, Vrije Universiteit Amsterdam, with the aim to assess visual function in individuals with vision impairment. 
 The eye tracker used with this test battery was the Pupil Invisible (Pupil Labs GmbH, Germany).
 The test battery consists of 5 tests (in fixed order):
+
 1) Visual search test
 2) Fixation stability test
 3) Saccades test
 4) Smooth pursuit test
 5) Free viewing (photos + video)
+
 The test battery was developed based on the framework outlined in:
 Nieboer, W., Ghiani, A., De Vries, R., Brenner, E., & Mann, D. L. (2023). Eye Tracking to Assess the Functional Consequences of Vision Impairment: A Systematic Review. Optometry and Vision Science, 100(12), 861-875.
 The test battery was administered and validated among 46 individuals* with vision impairment (*Paralympic athletes with vision impairment):
@@ -16,7 +18,9 @@ Nieboer, W., Mann, D.L. (Submitted for publication). Eye tracking for the classi
 
 The test battery was developed and executed in PsychoPy Builder (free software: www.psychopy.org) and Python version 3.9:
 Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) PsychoPy2: Experiments in behavior made easy Behav Res 51: 195. https://doi.org/10.3758/s13428-018-01193-y
+
 Files you need to run the test in PsychoPy or Python:
+
 - Nieboer_eye-tracking-test-battery.psyexp or .py
 - calibration_opacity.xlsx - this file determines which stimuli is presented during calibration check.
 - VS_figs folder - this folder contains the visual search figures

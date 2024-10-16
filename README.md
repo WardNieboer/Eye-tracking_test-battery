@@ -12,9 +12,12 @@ The test battery consists of 5 tests (in fixed order):
 5) Free viewing (photos + video)
 
 The test battery was developed based on the framework outlined in:
-Nieboer, W., Ghiani, A., De Vries, R., Brenner, E., & Mann, D. L. (2023). Eye Tracking to Assess the Functional Consequences of Vision Impairment: A Systematic Review. Optometry and Vision Science, 100(12), 861-875.
+
+- Nieboer, W., Ghiani, A., De Vries, R., Brenner, E., & Mann, D. L. (2023). Eye Tracking to Assess the Functional Consequences of Vision Impairment: A Systematic Review. Optometry and Vision Science, 100(12), 861-875.
+
 The test battery was administered and validated among 46 individuals* with vision impairment (*Paralympic athletes with vision impairment):
-Nieboer, W., Mann, D.L. (Submitted for publication). Eye tracking for the classification of visual function in individuals with vision impairment. Manuscript can be requested, see contact details below.
+
+- Nieboer, W., Mann, D.L. (Submitted for publication). Eye tracking for the classification of visual function in individuals with vision impairment. Manuscript can be requested, see contact details below.
 
 The test battery was developed and executed in PsychoPy Builder (free software: www.psychopy.org) and Python version 3.9:
 Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) PsychoPy2: Experiments in behavior made easy Behav Res 51: 195. https://doi.org/10.3758/s13428-018-01193-y
